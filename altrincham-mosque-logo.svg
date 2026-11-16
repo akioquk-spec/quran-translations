@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 430" role="img" aria-labelledby="title">
+<title>Altrincham Mosque</title>
+<rect width="520" height="430" fill="white"/>
+<g fill="none" stroke="#C9A347" stroke-width="22" stroke-linecap="square" stroke-linejoin="miter">
+  <path d="M260 25 L260 58"/>
+  <path d="M260 58 C217 88 202 122 202 173 L202 252"/>
+  <path d="M260 58 C303 88 318 122 318 173 L318 252"/>
+  <path d="M202 147 L110 198 L110 294"/>
+  <path d="M318 147 L410 198 L410 294"/>
+  <path d="M202 205 L260 239 L318 205"/>
+  <path d="M202 173 L202 294"/>
+  <path d="M318 173 L318 294"/>
+</g>
+<text x="260" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="500" letter-spacing="3">ALTRINCHAM</text>
+<text x="260" y="405" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="8">MOSQUE</text>
+</svg>
